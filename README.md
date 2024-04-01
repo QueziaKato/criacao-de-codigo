@@ -1,6 +1,6 @@
 # Criação de Código
 
-# Verificador de Números
+## Verificador de Números
  
 Este é um simples programa em [linguagem] que recebe um número como entrada e verifica as seguintes condições:
  
